@@ -2,9 +2,9 @@
 # Java Console End to End Encryption
 <h4>This project uses symmetric AES with 128bit secret key & asymmetric RSA with 1024bit public and private key to encrypt data</h4>
 
-You can reab about E2EE in <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">Wikipedia</a>
+You can read about E2EE in <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">Wikipedia</a>
 
-<h3>:fire: Example</h3>
+<h3>:fire: Example of Project Mechanism </h3>
 <h4> Mehdi want to send message to shahram</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;1. mehdi types message<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. message encrypted with AES(128bit) random generated secret key<br>
