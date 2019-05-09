@@ -5,7 +5,7 @@
 You can reab about E2EE in <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">Wikipedia</a>
 
 <h3>:fire: Example</h3>
-<p><h4> Mehdi want to send message to shahram</h4></p><br>
+<h4> Mehdi want to send message to shahram</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;1. mehdi types message<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. message encrypted with AES(128bit) random generated secret key<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. random generated secret key encrypt with RSA(1024) & shahram public key<br>
