@@ -4,8 +4,14 @@
 
 You can reab about E2EE in <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">Wikipedia</a>
 
-<h4>:fire: Example</h4>
-Mehdi want send message to penny
-<pre>
-    1. 
-</pre>
+<h3>:fire: Example</h3>
+<p><h4> Mehdi want to send message to shahram</h4></p><br>
+&nbsp;&nbsp;&nbsp;&nbsp;1. mehdi types message<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2. message encrypted with AES(128bit) random generated secret key<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. random generated secret key encrypt with RSA(1024) & shahram public key<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. mehdi send encrypted message & encrypted secret key to shahram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5. shahram decrypt the encrypted secret key<br>
+&nbsp;&nbsp;&nbsp;&nbsp;6. shahram decrypt the encrypted message with secret key & finally can see the message<br>
+<br>
+<h4>This project can be used for Android :iphone: & IOS :apple: projects</h4>
+<h3> If you like it, please tap the Star(:star:) button at above page</h3>
